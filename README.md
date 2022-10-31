@@ -5,7 +5,7 @@
 - Difficulty: Hard
 - Given a tree graph, find the number of pairs of vertices whose distance is odd.
 - <https://app.codility.com/programmers/challenges/national_coding_week2022/>
-- <task-url>
+- <https://app.codility.com/programmers/task/odd_network/>
 
 ## Versions
 
